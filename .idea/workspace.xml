@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="879470cf-2104-4c6c-90f3-cfbc5849f865" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\rem\OpenServer\domains\port\bvvell.github.io\stylesheets\print.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pht-vladimir.png" afterPath="$PROJECT_DIR$/images/pht-vladimir.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/font.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/stylesheet.css" afterPath="$PROJECT_DIR$/stylesheets/stylesheet.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bvvell.github.io.iws" />
@@ -32,7 +30,16 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="372" selection-start="5863" selection-end="5863" vertical-scroll-proportion="3.7425373" vertical-offset="0" max-vertical-offset="2159">
+            <state line="9" column="878" selection-start="1370" selection-end="1370" vertical-scroll-proportion="0.28544775" vertical-offset="0" max-vertical-offset="2159">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="font.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stylesheets/font.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="1" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
               <folding />
             </state>
           </provider>
@@ -95,6 +102,7 @@
         <option value="$PROJECT_DIR$/stylesheets/print.css" />
         <option value="$PROJECT_DIR$/stylesheets/stylesheet.css" />
         <option value="$PROJECT_DIR$/gruntfile.js" />
+        <option value="$PROJECT_DIR$/stylesheets/font.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -338,9 +346,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/font.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="372" selection-start="5863" selection-end="5863" vertical-scroll-proportion="3.7425373" vertical-offset="0" max-vertical-offset="2159">
+        <state line="9" column="878" selection-start="1370" selection-end="1370" vertical-scroll-proportion="0.28544775" vertical-offset="0" max-vertical-offset="2159">
           <folding />
         </state>
       </provider>
