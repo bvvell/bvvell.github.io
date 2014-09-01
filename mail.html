@@ -5,32 +5,25 @@
     <link rel="stylesheet" href="javascripts/style.css"/>
 </head>
 <body>
-<div id="page-wrapper">
-    <h1>AJAX Contact Form Demo</h1>
+<script>
+    var elements = [
+                "http://bvvell.github.io/javascript/jquery-2.1.0.min.js",
+                "http://bvvell.github.io/javascript/app.js"],
+            downloadJSAtOnload = function (n) {
+                if ("[object Array]" !== Object.prototype.toString.call(n))return 0;
+                var t, e;
+                for (t = 0; t < n.length; t++)e = document.createElement("script"), e.src = n[t], document.body.appendChild(e);
+                return !0
+            };
+    window.addEventListener ? window.addEventListener("load", function () {
+        downloadJSAtOnload(elements)
+    }, !1) : window.attachEvent ? window.attachEvent("onload", function () {
+        downloadJSAtOnload(elements)
+    }) : window.onload = function () {
+        downloadJSAtOnload(elements)
+    };
+</script>
 
-    <div id="form-messages"></div>
-
-    <form id="ajax-contact" method="post" action="http://decorhouse.by/mailer.php">
-        <div class="field">
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
-        </div>
-
-        <div class="field">
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
-        </div>
-
-        <div class="field">
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" required></textarea>
-        </div>
-
-        <div class="field">
-            <button type="submit">Send</button>
-        </div>
-    </form>
-</div>
 <script src="javascripts/jquery-2.1.0.min.js"></script>
 <script src="javascripts/app.js"></script>
 </body>
