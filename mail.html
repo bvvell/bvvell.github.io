@@ -7,8 +7,8 @@
 <body>
 <script>
     var elements = [
-                "http://bvvell.github.io/javascript/jquery-2.1.0.min.js",
-                "http://bvvell.github.io/javascript/app.js"],
+                "http://localhost:63342/bvvell.github.io/javascript/jquery-2.1.0.min.js",
+                "http://localhost:63342/bvvell.github.io/javascript/app.js"],
             downloadJSAtOnload = function (n) {
                 if ("[object Array]" !== Object.prototype.toString.call(n))return 0;
                 var t, e;
@@ -22,6 +22,46 @@
     }) : window.onload = function () {
         downloadJSAtOnload(elements)
     };
+    window.addEventListener ? window.addEventListener("load", function () {
+        var e = document.createElement("link");
+        e.type = "text/css";
+        e.rel = "stylesheet";
+        e.href = "http://localhost:63342/bvvell.github.io/stylesheets/output.css";
+        e.media = "screen";
+        document.getElementsByTagName("head")[0].appendChild(e);
+        var t = document.createElement("link");
+        t.type = "text/css";
+        t.rel = "stylesheet";
+        t.href = "http://localhost:63342/bvvell.github.io/stylesheets/popup.css";
+        t.media = "screen";
+        document.getElementsByTagName("head")[0].appendChild(t)
+    }, !1) : window.attachEvent ? window.attachEvent("onload", function () {
+        var e = document.createElement("link");
+        e.type = "text/css";
+        e.rel = "stylesheet";
+        e.href = "http://localhost:63342/bvvell.github.io/stylesheets/output.css";
+        e.media = "screen";
+        document.getElementsByTagName("head")[0].appendChild(e);
+        var t = document.createElement("link");
+        t.type = "text/css";
+        t.rel = "stylesheet";
+        t.href = "http://localhost:63342/bvvell.github.io/stylesheets/popup.css";
+        t.media = "screen";
+        document.getElementsByTagName("head")[0].appendChild(t)
+    }) : window.onload = function () {
+        var e = document.createElement("link");
+        e.type = "text/css";
+        e.rel = "stylesheet";
+        e.href = "http://localhost:63342/bvvell.github.io/stylesheets/output.css";
+        e.media = "screen";
+        document.getElementsByTagName("head")[0].appendChild(e);
+        var t = document.createElement("link");
+        t.type = "text/css";
+        t.rel = "stylesheet";
+        t.href = "http://localhost:63342/bvvell.github.io/stylesheets/popup.css";
+        t.media = "screen";
+        document.getElementsByTagName("head")[0].appendChild(t)
+    }
 </script>
 
 <script src="javascripts/jquery-2.1.0.min.js"></script>

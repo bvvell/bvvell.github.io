@@ -1,6 +1,15 @@
 $(function () {
     $(".contact").on("click", function () {
         $(".popUp").show();
+        $(".highlight").show();
+        $("html").addClass("pop");
+        return false;
+    });
+    $(".close").on("click", function () {
+        $(".popUp").hide();
+        $(".highlight").hide();
+        $("html").removeClass("pop");
+        return false;
     });
 
 
