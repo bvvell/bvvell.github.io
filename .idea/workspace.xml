@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="879470cf-2104-4c6c-90f3-cfbc5849f865" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\OpenServer\domains\portfolio\bvvell.github.io\javascripts\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\OpenServer\domains\portfolio\bvvell.github.io\javascripts\mailer.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\OpenServer\domains\portfolio\bvvell.github.io\javascripts\style.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\OpenServer\domains\portfolio\bvvell.github.io\mail.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\OpenServer\domains\portfolio\bvvell.github.io\stylesheets\pygment_trac.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\OpenServer\domains\portfolio\bvvell.github.io\stylesheets\stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\portfolio\bvvell.github.io\3.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascripts/app.js" afterPath="$PROJECT_DIR$/javascripts/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/output.css" afterPath="$PROJECT_DIR$/stylesheets/output.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/popup.css" afterPath="$PROJECT_DIR$/stylesheets/popup.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bvvell.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,7 +31,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="144" column="381" selection-start="10484" selection-end="10484" vertical-scroll-proportion="-30.745098" vertical-offset="880" max-vertical-offset="2584">
+            <state line="104" column="94" selection-start="7147" selection-end="7147" vertical-scroll-proportion="-15.807693" vertical-offset="1357" max-vertical-offset="2601">
               <folding />
             </state>
           </provider>
@@ -46,25 +40,25 @@
       <file leaf-file-name="output.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/output.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="10581" selection-start="10581" selection-end="10581" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+            <state line="0" column="10581" selection-start="10581" selection-end="10581" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="popup.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="popup.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/popup.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="308" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="965">
+            <state line="0" column="308" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/javascripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="21" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
+            <state line="0" column="808" selection-start="808" selection-end="808" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="992">
               <folding />
             </state>
           </provider>
@@ -73,7 +67,7 @@
       <file leaf-file-name="params.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/params.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
               <folding />
             </state>
           </provider>
@@ -118,9 +112,10 @@
         <option value="$PROJECT_DIR$/javascripts/style.css" />
         <option value="$PROJECT_DIR$/mail.html" />
         <option value="$PROJECT_DIR$/stylesheets/output.css" />
-        <option value="$PROJECT_DIR$/javascripts/app.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/stylesheets/popup.css" />
+        <option value="$PROJECT_DIR$/3.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/javascripts/app.js" />
       </list>
     </option>
   </component>
@@ -157,9 +152,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files" />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,11 +200,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../vector" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
@@ -259,7 +254,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26093918" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2705443" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -290,9 +285,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -312,6 +307,41 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/javascripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="308" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="21" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1190">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/params.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="144" column="116" selection-start="9631" selection-end="9631" vertical-scroll-proportion="0.0" vertical-offset="1786" max-vertical-offset="2618">
@@ -354,13 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="21" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/params.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
@@ -375,16 +398,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/stylesheets/popup.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="381" selection-start="10484" selection-end="10484" vertical-scroll-proportion="-30.745098" vertical-offset="880" max-vertical-offset="2584">
+        <state line="0" column="308" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="965">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/popup.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="308" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="965">
+        <state line="104" column="94" selection-start="7147" selection-end="7147" vertical-scroll-proportion="-15.807693" vertical-offset="1357" max-vertical-offset="2601">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="808" selection-start="808" selection-end="808" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="992">
           <folding />
         </state>
       </provider>
