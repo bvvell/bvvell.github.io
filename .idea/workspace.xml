@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="879470cf-2104-4c6c-90f3-cfbc5849f865" name="Default" comment="">
       <change type="DELETED" beforePath="D:\OpenServer\domains\portfolio\bvvell.github.io\3.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascripts/app.js" afterPath="$PROJECT_DIR$/javascripts/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/popup.css" afterPath="$PROJECT_DIR$/stylesheets/popup.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/output.css" afterPath="$PROJECT_DIR$/stylesheets/output.css" />
     </list>
     <ignored path="bvvell.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,25 +29,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="94" selection-start="7147" selection-end="7147" vertical-scroll-proportion="-15.807693" vertical-offset="1357" max-vertical-offset="2601">
+            <state line="101" column="30" selection-start="6865" selection-end="6872" vertical-scroll-proportion="-6.1372547" vertical-offset="1404" max-vertical-offset="2601">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="output.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="output.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheets/output.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="10581" selection-start="10581" selection-end="10581" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+            <state line="0" column="10620" selection-start="10620" selection-end="10620" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="967">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="popup.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="popup.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/popup.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="377" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="992">
+            <state line="0" column="377" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
               <folding />
             </state>
           </provider>
@@ -110,11 +109,11 @@
         <option value="$PROJECT_DIR$/javascripts/mailer.php" />
         <option value="$PROJECT_DIR$/javascripts/style.css" />
         <option value="$PROJECT_DIR$/mail.html" />
-        <option value="$PROJECT_DIR$/stylesheets/output.css" />
         <option value="$PROJECT_DIR$/3.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/javascripts/app.js" />
         <option value="$PROJECT_DIR$/stylesheets/popup.css" />
+        <option value="$PROJECT_DIR$/stylesheets/output.css" />
       </list>
     </option>
   </component>
@@ -306,13 +305,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascripts/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/popup.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="308" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
@@ -376,13 +368,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/output.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="10581" selection-start="10581" selection-end="10581" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/params.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
@@ -397,13 +382,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="94" selection-start="7147" selection-end="7147" vertical-scroll-proportion="-15.807693" vertical-offset="1357" max-vertical-offset="2601">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="95" selection-start="1209" selection-end="1209" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
@@ -414,6 +392,27 @@
     <entry file="file://$PROJECT_DIR$/stylesheets/popup.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="377" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="992">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="4" selection-start="1472" selection-end="1472" vertical-scroll-proportion="0.33333334" vertical-offset="549" max-vertical-offset="6902">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="30" selection-start="6865" selection-end="6872" vertical-scroll-proportion="-6.1372547" vertical-offset="1404" max-vertical-offset="2601">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/output.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="10620" selection-start="10620" selection-end="10620" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="967">
           <folding />
         </state>
       </provider>
