@@ -1,12 +1,11 @@
 # Site settings
-title: Html-coder
+title: Html-coder/frontend-developer bvvell
 email: vvbernacky@gmail.com
-description: HTML coder / Front end developer. Freelance. HTML template creator. Best practices
+  description:HTML coder / Front end developer. Freelance. HTML template creator. Best practices
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-encoding: UTF-8 # кодировка
+url: "http://html-coder.net" # the base hostname & protocol for your site
+twitter_username: bvvell
+github_username:  bvvell
 
 # Build settings
 markdown: kramdown
