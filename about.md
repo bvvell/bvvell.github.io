@@ -75,7 +75,7 @@ permalink: /about/
 </ul>
 
 <h3><a name="contacts" class="anchor" href="#contacts"><span
-        class="octicon octicon-link"></span></a>Contacts:</h3></h3>
+        class="octicon octicon-link"></span></a>Contacts:</h3>
 
 <ul class="conacts">
     <li><a href="mailto:vvbernacky@gmail.com">vvbernacky@gmail.com</a></li>
