@@ -4,18 +4,24 @@
   {% include head.html %}
 
   <body>
+
     {% include header.html %}
+
     <div id="content-wrapper">
         <div class="inner clearfix">
             <section id="main-content">
                 {{ content }}
+
             </section>
 
             <aside id="sidebar">
-                {% include menu.html %}
+                <img src="images/pht-vladimir.png" width="187" height="187  " alt="Vladimir Bernatsky"/>
             </aside>
         </div>
     </div>
 
+    {% include footer.html %}
+
   </body>
+
 </html>
