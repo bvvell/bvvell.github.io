@@ -8,5 +8,5 @@ twitter_username: bvvell
 github_username:  bvvell
 
 # Build settings
-pygments:         false
-highlighter:      rouge
+markdown: kramdown
+permalink: /:year/:title:output_ext

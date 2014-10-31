@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c018b6bd-2d94-429f-9bc4-c63fd51112d1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-    </list>
+    <list default="true" id="c018b6bd-2d94-429f-9bc4-c63fd51112d1" name="Default" comment="" />
     <ignored path="bvvell.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
