@@ -4,15 +4,14 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
     <url>
         <loc>http://html-coder.net/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="http://html-coder.net/" />
         <lastmod>2014-11-29T17:10:23+00:00</lastmod>
     </url>
     <url>
         <loc>http://html-coder.net/ru/</loc>
-        <xhtml:link rel="alternate" hreflang="ru" href="http://html-coder.net/ru/" />
         <lastmod>2014-11-29T17:10:23+00:00</lastmod>
-
     </url>
 </urlset>
