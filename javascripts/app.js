@@ -2,13 +2,13 @@ $(function () {
     $(".contact").on("click", function () {
         $(".popUp").show();
         $(".highlight").show();
-        $("html").addClass("pop");
+        $("html,body").addClass("pop");
         return false;
     });
     $(".close").on("click", function () {
         $(".popUp").hide();
         $(".highlight").hide();
-        $("html").removeClass("pop");
+        $("html,body").removeClass("pop");
         $("#form-messages").text("").hide();
         return false
     });
