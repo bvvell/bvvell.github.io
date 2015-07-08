@@ -1069,9 +1069,11 @@ button:active {
 .references .slider-row .txt:before {
     content: "";
     display: block;
-    background: url(../img/slide-text-arrow.jpg) no-repeat;
-    width: 13px;
-    height: 24px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 12px 0 12px 13px;
+    border-color: transparent transparent transparent #d6dcdc;
     position: absolute;
     left: 0;
     top: 50%;
